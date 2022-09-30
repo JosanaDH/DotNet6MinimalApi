@@ -5,5 +5,9 @@
     <TargetFramework>net6.0</TargetFramework>
     <UserSecretsId>44f7bb20-0125-42a0-9cd0-800159d62b05</UserSecretsId>
   </PropertyGroup>
+  
+    <ItemGroup>
+    <PackageReference Include="System.Management.Automation" Version="6.1.0" />
+  </ItemGroup>
 
 </Project>
